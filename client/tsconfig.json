@@ -17,8 +17,5 @@
     "noEmit": true,
     "jsx": "react-jsx"
   },
-  "include": ["src"],
-  "linterOptions": {
-    "exclude": ["/config", "tailwind.config.js"]
-  }
+  "include": ["src"]
 }
