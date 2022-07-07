@@ -1,5 +1,12 @@
-# React/Express Template
+# 🗃️ React/Express Template
 
-Template files for a React/Express configuration.
+Template files for a React & SASS /Express configuration using webpack bundler.
 
-SASS used on front-end.
+## ⚙️ Technologies:
+
+### 💻 Client:
+- React
+- SASS
+
+### 🌐 Server:
+- Express.js
